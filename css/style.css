@@ -1,0 +1,9 @@
+@import "composant.css";
+@import "menu.css";
+
+
+body{
+    background: url('https://67.media.tumblr.com/8e5cc52646f00511f59b4e2767722409/tumblr_ngs6eoYfJ11titzlso1_500.gif') no-repeat fixed ;
+    background-size: cover;
+    
+}

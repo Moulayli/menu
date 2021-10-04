@@ -1,0 +1,7 @@
+.shadow{
+    text-align: center;
+    font-size: 30px;
+    color: beige;
+    text-shadow: 1px 5px 6px black;
+    background-color: rgba(0, 0, 0, 0);
+}
